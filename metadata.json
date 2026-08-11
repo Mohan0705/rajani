@@ -1,0 +1,6 @@
+{
+  "name": "Saree Boutique & Lead CRM",
+  "description": "A premium saree business website featuring a product catalog, WhatsApp enquiry system, lead generation form, and full admin CRM dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
